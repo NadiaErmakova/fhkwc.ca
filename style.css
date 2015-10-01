@@ -275,14 +275,15 @@ a:hover {
 
 #footer p {
 	margin: 0;
-	padding-top: 20px;
+	padding-top1: 20px;
 	line-height: normal;
 	text-align: center;
-	color: #000000;
+	color: #0A1A73;
+	font-size: 15px;
 }
 
 #footer a {
-	color: #000000;
+	color: #0A1A73;
 }
 
 #footer_contact {
@@ -336,7 +337,7 @@ a:hover {
 }
 #three-columns h4 {
 	padding: 0px 0px 5px 0px;
-	font-size: 12px;
+	font-size: 13px;
 	color: #091478;
 	text-align:center;
 }
