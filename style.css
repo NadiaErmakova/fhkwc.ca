@@ -42,36 +42,39 @@ a {
 a:hover {
 }
 
-#header {
-	margin-left:40px;
-
-}
-
 #two-columns-header {
 	overflow: hidden;
 	width: 1000px;
 	margin: 0px auto;
-	padding: 20px 0px;
+	padding: 20px 0px 20px 0px;
 }
 
 #two-columns-header #col1 {
 	float: left;
 	width: 120px;
 	color: #000000;
+	padding-left:10px;
 }
 
-
 #two-columns-header #col2 {
+	float: left;
+	width: 800px;
+	padding-left:10px;	
+}
+#two-columns-header #col3 {
 	float: right;
-	width: 830px;
+	width: 64px;
+	padding-right:10px;
 }
 
 #two-columns-header h1 {
-	padding: 20px 0px 10px 0px;
+	padding: 40px 0px 10px 0px;
+	text-align:center;
 }
 
 #two-columns-header h2 {
 	padding: 0px 0px 10px 0px;
+	text-align:center;
 }
 
 /* Menu */
@@ -389,7 +392,6 @@ a:hover {
 	width: 780px;
 	color: #000000;
 }
-
 
 #two-columns #col2 {
 	float: right;
